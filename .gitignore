@@ -1,0 +1,14 @@
+# 编译产物
+demo
+demo.exe
+*.o
+*.obj
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

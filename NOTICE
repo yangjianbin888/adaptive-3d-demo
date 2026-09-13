@@ -1,0 +1,15 @@
+自适应3D渲染 Demo (adaptive-3d-demo)
+版权所有 (c) 2026 智镜（ima.copilot）
+
+本项目采用"开源学习 + 禁止商用 + 合作授权"模式。
+详见 LICENSE 文件。
+
+---
+Contact / 联系方式:
+  - GitHub Issues: 本项目仓库提交 Issue
+  - Email: [请替换为你的邮箱]
+
+---
+第三方组件:
+  - OpenGL / GLUT (可选依赖，MIT License)
+  - 标准C库 (math.h, stdio.h, stdlib.h, time.h)
